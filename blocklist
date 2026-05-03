@@ -96,7 +96,6 @@
 
 ! ================= THERMOSTATS & HVAC =====================================
 ! -- Ecobee (telemetry only) --
-||analytics.amazonaws.com^
 ! -- Nest, Honeywell, Tado, Mysa, Emerson, Bosch, Carrier, GE --
 ! Reserved for future-specific analytics endpoints.
 
@@ -166,9 +165,7 @@
 ||vindicosuite.com^
 ||smartclip.com^
 ||smartclip.net^
-||firebaseinstallations.googleapis.com^
 ||firebase-settings.crashlytics.com^
-||firebase.googleapis.com^
 ||metrics.gstatic.com^
 ||google-analytics.com^
 ||ssl.google-analytics.com^
@@ -206,7 +203,6 @@
 ||telemetry.mozilla.org^
 ||firefox.settings.services.mozilla.com^
 ! -- Google Chrome & Android (telemetry only) --
-||chrome.googleapis.com^
 ! -- Linux / Other (telemetry only) --
 ||telemetrics.clearlinux.org^
 ||telemetry.canonical.com^
